@@ -1,0 +1,40 @@
+body {
+    background-color: #d2d2c1 ;
+    background-image: url('/Web/ProjetoAtriz/imagens/fundo.png');
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color:#4b566a; 
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+ }
+
+#principal {
+    width: 900px;
+    align-content: center;
+}
+
+#menu {
+    background-color: #c5c5b2 ;
+    padding: 18px;
+}
+
+#conteudo {
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+
+.centralizar {
+    font-weight: bold;
+    text-align: center;
+}
+
+.img-campanhas {
+    border-width: 8px;
+    border-color: #4b566a;
+    border-style: groove;
+}
+
